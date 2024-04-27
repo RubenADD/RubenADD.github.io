@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/* Esta línea es para recordar como se coloca un comentario*/
+
+.RHA {
+    color: blue;
+}
+
+/* esto es para la tarea de la clase 4*/
+.días {
+    font-weight: bold;
+    color: chartreuse;
+    font-size: larger;
+}
+
+.horarios {
+    font-style: italic;
+    color: blueviolet;
+
+}
+
+/* Tarea 5 punto 1*/
+.TP51{
+    background-color: rgb(29, 15, 109);
+    width: 100%;
+    height: 50%;
+}
+.TP52{
+    background-color: rgb(47, 255, 20);
+    width: 100%;
+    height: 50%;    
+}
+.TP53{
+    border: 5px blue solid;
+}
+ul{
+    list-style: none;
+}
