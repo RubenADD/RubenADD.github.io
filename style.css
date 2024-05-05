@@ -40,3 +40,19 @@ body {
 ul{
     list-style: none;
 }
+
+/* Tarea 6 */
+
+nav {
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+    
+}
+.tp6a {
+    background-color: brown;
+    border-radius: 5px;
+    width: 200px;
+    
+    
+}
