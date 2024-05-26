@@ -1,7 +1,7 @@
 body {
-    background-color: black;
+    background-color: white;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 /* Esta línea es para recordar como se coloca un comentario*/
@@ -24,20 +24,23 @@ body {
 }
 
 /* Tarea 5 punto 1*/
-.TP51{
+.TP51 {
     background-color: rgb(29, 15, 109);
     width: 100%;
     height: 50%;
 }
-.TP52{
+
+.TP52 {
     background-color: rgb(47, 255, 20);
     width: 100%;
-    height: 50%;    
+    height: 50%;
 }
-.TP53{
+
+.TP53 {
     border: 5px blue solid;
 }
-ul{
+
+ul {
     list-style: none;
 }
 
@@ -47,12 +50,72 @@ nav {
     display: flex;
     gap: 50px;
     justify-content: space-evenly;
-    
+
 }
+
 .tp6a {
     background-color: brown;
+    color: white;
     border-radius: 5px;
     width: 200px;
-    
-    
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+
+}
+
+header {
+    background-image: url("universo.jpg");
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+.fondo {
+    background-color: rgba(255, 255, 255, 0.705);
+
+}
+
+.texto {
+    text-align: center;
+    color: black;
+}
+
+.card {
+    display: ;
+}
+
+ul {
+    padding-left: 50px;
+}
+
+footer {
+    text-align: right;
+}
+
+h3,
+h4 {
+    padding-left: 16%;
+}
+
+form {
+    text-align: center;
+}
+
+
+
+}
+
+@media (min-width: 320px) {
+    .celu {
+
+        padding: 5%;
+
+    }
+
 }
