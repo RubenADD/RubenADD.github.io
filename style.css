@@ -15,6 +15,7 @@ body {
     font-weight: bold;
     color: chartreuse;
     font-size: larger;
+    
 }
 
 .horarios {
@@ -107,9 +108,11 @@ form {
     text-align: center;
 }
 
+.video {
 
-
+    padding: 18%;
 }
+
 
 @media (min-width: 320px) {
     .celu {
